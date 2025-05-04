@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManager", "ResourceManager\ResourceManager.csproj", "{F6FB413B-C021-474E-8482-C613C7D6822D}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManager.Sync", "ResourceManager.Sync\ResourceManager.Sync.csproj", "{6891A70D-0ABE-4080-A51B-A7A01F152273}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManager.UI", "ResourceManager.UI\ResourceManager.UI.csproj", "{FA6A1C3B-60F1-4C21-9F43-D6E204A0A169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManager.Tests", "ResourceManager.Tests\ResourceManager.Tests.csproj", "{A3A5038A-4985-4AA9-983D-16AFB583123F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FA6A1C3B-60F1-4C21-9F43-D6E204A0A169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA6A1C3B-60F1-4C21-9F43-D6E204A0A169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA6A1C3B-60F1-4C21-9F43-D6E204A0A169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A5038A-4985-4AA9-983D-16AFB583123F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A5038A-4985-4AA9-983D-16AFB583123F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A5038A-4985-4AA9-983D-16AFB583123F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A5038A-4985-4AA9-983D-16AFB583123F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
